@@ -4,6 +4,9 @@ ___
 
 #### Acerca de mi:
 
+Mi nombre es Antonio🧑, actualmente estudio la carrera de ingeniería en sistemas computaciones💻📱, me llama la atención el desarrollo de aplicaciones para portátiles 💻 y dispositivos móviles📲. 
+
+___
 
 ⭐️ Licenciamiento para los cursos:
 - 🍎 Apple University Programm beca de 200 dispositivo iOS
