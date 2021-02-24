@@ -21,7 +21,7 @@ ___
 - 🆚 Visual Studio (C#)
 - 🆚 Visual Studio Code (Haskell, CSS, HTML, ASM)
 - 🧰 SQL Server (SQL)
-- 🟨 ZinjaiC++ (C++)
+- 🟨 ZinjaI (C++)
 
 🔅 Pasatiempos:
 - 🎧 Escuchar música
