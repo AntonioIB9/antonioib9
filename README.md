@@ -1,4 +1,4 @@
-### Hola compañeros 👋
+### Hola compañeros 👋 :simple_smile:
 
 <!--
 **AntonioIB9/antonioib9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
