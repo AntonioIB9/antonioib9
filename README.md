@@ -2,7 +2,7 @@
 
 ___
 
-#### Acerca de mi:
+#### 🧩 Acerca de mi:
 
 Mi nombre es Antonio🧑, actualmente estudio la carrera de ingeniería en sistemas computaciones💻📱, me llama la atención el desarrollo de aplicaciones para portátiles 💻 y dispositivos móviles📲. 
 
