@@ -1,6 +1,6 @@
 ### Hola compañeros 👋😊
 
-
+___
 
 ⭐️ Licenciamiento para los cursos:
 - 🍎 Apple University Programm beca de 200 dispositivo iOS
