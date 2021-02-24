@@ -8,14 +8,25 @@ Mi nombre es Antonio🧑, actualmente estudio la carrera de ingeniería en siste
 
 ___
 
-⭐️ Licenciamiento para los cursos:
-- 🍎 Apple University Programm beca de 200 dispositivo iOS
-- 🅰️ Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- 🧠 Jetbrains Suite completo de beca $450 dlls
+📚 Lenguajes de conocimiento:
+- 💾 C#
+- 💻 C++
+- 📧 HTML básico
+- 🖌  CSS básico
+- 📝  Haskell 
+- 🛠  ASM básico
+- 🗃  SQL
 
-💾 Inventario maker para cursos:
-- 🍪 Arduino clasico
-- 🍪 STM32
-- 🍪 RaspberryPi 
-- 📟🎚 kit de sensores y herramientas soldar
+🆔 IDE's utilizados:
+- 🆚 Visual Studio (C#)
+- 🆚 Visual Studio Code (Haskell, CSS, HTML, ASM)
+- 🧰 SQL Server (SQL)
+- 🟨 ZinjaiC++ (C++)
+
+🔅 Pasatiempos:
+- 🎧 Escuchar música
+- 📖 Aprender referente a tecnología e idioma
+- 🌆 Observar los atardeceres
+- 🕹 Jugar videojuegos
+
 
